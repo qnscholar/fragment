@@ -6,7 +6,7 @@
   <link href="https://qnscholar.github.io/fragment/atom.xml" rel="self"/>
   
   <link href="https://qnscholar.github.io/fragment/"/>
-  <updated>2022-02-15T12:45:36.636Z</updated>
+  <updated>2022-02-16T08:39:28.676Z</updated>
   <id>https://qnscholar.github.io/fragment/</id>
   
   <author>
@@ -17,39 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo 可折腾了</title>
-    <link href="https://qnscholar.github.io/fragment/2022/02/15/Hexo-GithubPages-Tutorial/"/>
-    <id>https://qnscholar.github.io/fragment/2022/02/15/Hexo-GithubPages-Tutorial/</id>
-    <published>2022-02-14T16:00:00.000Z</published>
-    <updated>2022-02-15T12:45:36.636Z</updated>
+    <title>打工人 复工了</title>
+    <link href="https://qnscholar.github.io/fragment/2022/02/16/return-to-work-2022/"/>
+    <id>https://qnscholar.github.io/fragment/2022/02/16/return-to-work-2022/</id>
+    <published>2022-02-15T16:00:00.000Z</published>
+    <updated>2022-02-16T08:39:28.676Z</updated>
     
-    <content type="html"><![CDATA[<p>折腾了一下午，终于把 Hexo 整出来了！🎉</p><span id="more"></span><p>中间遇到了很多问题，感觉 Hexo 比 JekyIII 麻烦多了，涉及了很多 git 命令以及 url 设置。</p><p>其中最关键的教程有：</p><ol><li><a href="https://www.jianshu.com/p/0840b38ad0aa?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation">mac环境下搭建hexo+github pages个人博客</a>：其中 SSH keys 的设置教程很有帮助。</li><li><a href="https://www.cnblogs.com/xiaozhangzhang/p/11021810.html">Mac下SSH Key配置</a>：拷贝 SSH keys 很有用。</li><li><a href="https://github.com/zchen9/hexo-theme-hollow">zchen9</a>：几个关键的 Hexo 命令。</li><li><a href="https://hexo.io/zh-cn/docs/configuration">Hexo 官方文档</a>：了解 Hexo 必备。</li></ol>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;折腾了一下午，终于把 Hexo 整出来了！🎉&lt;/p&gt;</summary>
+    <content type="html"><![CDATA[<p>元宵已过，2020 打工人生活开始了。</p><span id="more"></span><p>早上六点就起床了。</p><p>收拾好东西，放在车上。</p><p>特别地，把我的睡衣拿来垫 iMac…生产力工具得保护好。</p><p><img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202202161624586.jpg"></p><p>妈妈给我准备了几个鸡蛋，先填填肚子。</p><p>大约8点，驾着爱车出发。</p><p>在镇上又买了三个包子作为早点。其实本来想买大饼的，然后好久没去镇上，我都不知道卖大饼的在哪个位置。</p><p>在 G50 沪渝高速，途径安庆大龙山服务区。</p><p><img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202202161631153.jpg"></p><p>驶进去，首先加了个油。95 号汽油都涨到8.16元&#x2F;升了…</p><p>然后拿出镇上买的包子，吃完。</p><p>上个洗手间，继续开车出发。</p><p>有一段路还是挺堵的。话说，安徽的高速 2 车道效率非常低，还常年在修。</p><p>不到三个小时，到了合肥。</p><p>下高速时，特意问了下收费站小姐姐怎么办 ETC 最方便。（回头来办一个）</p><p>把车上的东西都搬到出租房了，稍微有点累。</p><p>看了下房间的洗手台，发现去年买的香薰居然还没用完，大约还有半瓶。</p><p><img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202202161633564.JPG"></p><p>整理完毕，大约中午了。</p><p>去学校食堂吃了个午饭，食堂门口发现”抑郁猫“一只。</p><p><img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202202161635134.jpg"></p><p>今天是大一学生返校的日子，不少学生拖着行李箱。</p><p>不过总的来说，今天的校园还是比较冷清的。</p>]]></content>
     
     
-    
-    <category term="Hexo" scheme="https://qnscholar.github.io/fragment/categories/Hexo/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>JekyII 容易多了</title>
-    <link href="https://qnscholar.github.io/fragment/2022/02/15/JekyII-GithubPages-Tutorial/"/>
-    <id>https://qnscholar.github.io/fragment/2022/02/15/JekyII-GithubPages-Tutorial/</id>
-    <published>2022-02-14T16:00:00.000Z</published>
-    <updated>2022-02-15T12:53:25.996Z</updated>
-    
-    <content type="html"><![CDATA[<p>第一次搭建 Github Pages，就是 Powered by JekyII。🎉</p><span id="more"></span><p>JekyII 简单好用。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;第一次搭建 Github Pages，就是 Powered by JekyII。🎉&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;元宵已过，2020 打工人生活开始了。&lt;/p&gt;</summary>
     
     
     
-    <category term="JekyII" scheme="https://qnscholar.github.io/fragment/categories/JekyII/"/>
+    <category term="打工人" scheme="https://qnscholar.github.io/fragment/categories/%E6%89%93%E5%B7%A5%E4%BA%BA/"/>
     
     
   </entry>
