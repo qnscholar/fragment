@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>青柠学术</title>
+  
+  <subtitle>每个小白都有成长为科研大神的潜力</subtitle>
+  <link href="https://qnscholar.github.io/fragment/atom.xml" rel="self"/>
+  
+  <link href="https://qnscholar.github.io/fragment/"/>
+  <updated>2022-02-15T12:45:36.636Z</updated>
+  <id>https://qnscholar.github.io/fragment/</id>
+  
+  <author>
+    <name>qnscholar</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo 可折腾了</title>
+    <link href="https://qnscholar.github.io/fragment/2022/02/15/Hexo-GithubPages-Tutorial/"/>
+    <id>https://qnscholar.github.io/fragment/2022/02/15/Hexo-GithubPages-Tutorial/</id>
+    <published>2022-02-14T16:00:00.000Z</published>
+    <updated>2022-02-15T12:45:36.636Z</updated>
+    
+    <content type="html"><![CDATA[<p>折腾了一下午，终于把 Hexo 整出来了！🎉</p><span id="more"></span><p>中间遇到了很多问题，感觉 Hexo 比 JekyIII 麻烦多了，涉及了很多 git 命令以及 url 设置。</p><p>其中最关键的教程有：</p><ol><li><a href="https://www.jianshu.com/p/0840b38ad0aa?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation">mac环境下搭建hexo+github pages个人博客</a>：其中 SSH keys 的设置教程很有帮助。</li><li><a href="https://www.cnblogs.com/xiaozhangzhang/p/11021810.html">Mac下SSH Key配置</a>：拷贝 SSH keys 很有用。</li><li><a href="https://github.com/zchen9/hexo-theme-hollow">zchen9</a>：几个关键的 Hexo 命令。</li><li><a href="https://hexo.io/zh-cn/docs/configuration">Hexo 官方文档</a>：了解 Hexo 必备。</li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;折腾了一下午，终于把 Hexo 整出来了！🎉&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Hexo" scheme="https://qnscholar.github.io/fragment/categories/Hexo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JekyII 容易多了</title>
+    <link href="https://qnscholar.github.io/fragment/2022/02/15/JekyII-GithubPages-Tutorial/"/>
+    <id>https://qnscholar.github.io/fragment/2022/02/15/JekyII-GithubPages-Tutorial/</id>
+    <published>2022-02-14T16:00:00.000Z</published>
+    <updated>2022-02-15T12:53:25.996Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一次搭建 Github Pages，就是 Powered by JekyII。🎉</p><span id="more"></span><p>JekyII 简单好用。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;第一次搭建 Github Pages，就是 Powered by JekyII。🎉&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="JekyII" scheme="https://qnscholar.github.io/fragment/categories/JekyII/"/>
+    
+    
+  </entry>
+  
+</feed>
